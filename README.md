@@ -1,1 +1,1 @@
-# This is a static webside to cv
+# A static webside to cv
