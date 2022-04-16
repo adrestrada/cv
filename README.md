@@ -1,1 +1,1 @@
-# A static webside to cv
+# A static website to cv
